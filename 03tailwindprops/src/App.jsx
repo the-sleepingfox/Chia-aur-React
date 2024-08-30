@@ -8,9 +8,9 @@ function App() {
 
   return (
     <>
-    <h1>
-      TailWind CSS
-    </h1>
+    
+    <h1>Tailwind CSS</h1>
+
     </>
   )
 }
