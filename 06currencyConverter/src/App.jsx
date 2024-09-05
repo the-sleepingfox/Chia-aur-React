@@ -1,11 +1,12 @@
 import { useState } from 'react'
-
+import InputBox from './components/InputBox'
+import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    <div>Hello cherish the season! git </div>
+    <InputBox/>
     </>
   )
 }
